@@ -1,3 +1,5 @@
+package streaming
+
 import common._
 
 /**
